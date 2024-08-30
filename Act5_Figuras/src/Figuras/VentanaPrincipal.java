@@ -111,7 +111,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     }//GEN-LAST:event_BtnPiramideActionPerformed
 
     private void BtnEsferaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BtnEsferaActionPerformed
-        VentanaCilindro ventana=new VentanaCilindro();
+        VentanaEsfera ventana=new VentanaEsfera();
         ventana.setVisible(true);
     }//GEN-LAST:event_BtnEsferaActionPerformed
 
